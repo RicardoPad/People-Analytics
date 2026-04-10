@@ -1,3 +1,5 @@
+
+
 # 🧠 How Social Support Drives Engagement and Organizational Citizenship?
 ### A People Analytics Study (Moderated Mediation Model)  
 ### Ricardo Padilla Herrera  
@@ -127,3 +129,9 @@ This project demonstrates how People Analytics can:
 
 Social support alone is not enough — its impact depends on employees’ emotional context.  
 The combination of support and positive affect drives high-performance behaviors.
+
+---
+
+<div align="center">
+  <img src="People_Analytics_Cover.jpg" width="1000" alt="People Analytics Study">
+</div>
